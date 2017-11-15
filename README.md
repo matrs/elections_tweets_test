@@ -1,2 +1,2 @@
 # elections_tweets_test
-getting tweeter data from Chilean elections 2017 - test
+collecting tweets from Chilean presidential elections 2017 - test
