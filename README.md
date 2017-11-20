@@ -1,4 +1,4 @@
-# elections_tweets_test
+# Elections tweets test
 collecting tweets from Chilean presidential elections 2017 - test
 
 ## Tweet Object description - Tweet Data Dictionary
